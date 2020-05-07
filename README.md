@@ -1,0 +1,1 @@
+This project aims to classify facial emotions by training a Convolutional Neural Network on the FER 2013 dataset which comprises of 35887 grayscale, 48x48 sized face images with seven emotions - angry, disgusted, fearful, happy, neutral, sad and surprised.
